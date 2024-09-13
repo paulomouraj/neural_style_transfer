@@ -2,7 +2,10 @@
 
 ## Description
 
-The goal of this work was to transfer the style of a given work-of-art into an arbitrary image using a pre-trained convolutional neural network (CNN), here chosen as VGG-19. Moreover, an extra feature was implemented to keep the colors of the arbitrary image or transfer only the colors of a third image. This project was part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course.
+The goal of this work was to transfer the style of a given work-of-art into an arbitrary image using a pre-trained convolutional neural network (CNN), here chosen as VGG-19. Moreover, an extra feature was implemented to keep the colors of the arbitrary image or transfer only the colors of a third image. This project was part of [Télécom Paris Image Processing](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/image) course.  
+
+Examples of the implemented method, where the target column is the output:  
+![Set of examples](https://github.com/paulomouraj/neural_style_transfer/blob/main/examples/set_of_examples1.png)
 
 ## Dataset
 
