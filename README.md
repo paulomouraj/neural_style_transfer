@@ -23,9 +23,9 @@ The work-of-art images were taken from the dataset available on: https://hugging
 
 ## Contributors
 
-Paulo Roberto de Moura Júnior (me)
-Giovanni Benedetti da Rosa
-Cristian Alejandro Chávez Becerra
+Paulo Roberto de Moura Júnior (me)  
+Giovanni Benedetti da Rosa  
+Cristian Alejandro Chávez Becerra  
 Juan Esteban Rios Gallego
 
-[High level description]()
+[High level description](https://github.com/paulomouraj/neural_style_transfer/blob/main/docs/neural_style_transfer_HLD.pdf)
