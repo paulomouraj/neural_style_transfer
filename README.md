@@ -9,7 +9,7 @@ Examples of the implemented method, where the target column is the output:
 
 ## Dataset
 
-The work-of-art images were taken from the dataset available on: https://huggingface.co/datasets/huggan/wikiart?row=0
+The artwork images were taken from the dataset available on: https://huggingface.co/datasets/huggan/wikiart?row=0
 
 ## Requirements
 
